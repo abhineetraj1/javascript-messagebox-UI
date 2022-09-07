@@ -21,7 +21,7 @@ custom_alert("Title","The message you want to deliver to your website user","/pa
 This code will generate custom alert box, with image, title and message.
 
 ## Demo
-For live demo = (Open this link)[https://abhineetraj1.github.io/javascript-messagebox-UI]
+For live demo = [Open this link](https://abhineetraj1.github.io/javascript-messagebox-UI)
 
 
 
