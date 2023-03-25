@@ -1,22 +1,23 @@
 # Custom alert box (in Javascript)
-Since, I was bored seeing the ordinary alert box in web browser, so I designed my own alert box using css and js.
+It is a simple repo containing code for creating customizable message boxes in web applications.
 
 ## Guide
 
-*	Link your html file to alert.js
+*	Link your html file to alert.js and alert.css
 ```
 <script type="text/javascript" src="alert.js"></script>
+<link rel="stylesheet" type="text/css" href="index.css">
 ```
 
 *	For simple alert box UI, write :-
 ```
-simple_alert("Title","The message you want to deliver to your website user");
+simple_alert("The message you want to deliver to your website user");
 ```
 This will will generate custom alert box, with title and message.
 
 *	For image alert box UI, write :-
 ```
-custom_alert("Title","The message you want to deliver to your website user","/path/to/folder/filename.jpg");
+custom_alert("The message you want to deliver to your website user","/path/to/folder/filename.jpg");
 ```
 This code will generate custom alert box, with image, title and message.
 

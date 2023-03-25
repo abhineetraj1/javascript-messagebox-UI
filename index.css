@@ -1,0 +1,14 @@
+.btn-f{
+	font-size: 3vh;
+	margin: 2vh;
+	padding: 1vh;
+	background: white;
+	border: solid;
+}
+.btn-f:hover{
+	box-shadow: 0px 0px 10px black;
+}
+body{
+	background: #5fb4ff;
+	text-align: center;
+}
